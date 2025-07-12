@@ -3,6 +3,9 @@
 @@||vimeo.com^
 @@||videa.hu^
 @@||indavideo.hu^
+@@||googlevideo.com^
+@@||hivestreaming.com^
+@@||twitch.tv^
 
 #Search engines
 @@||google.com^
@@ -23,6 +26,13 @@
 #Code developement
 @@||github.com^
 @@||gitlab.com^
+
+#CDN
+@@||ggpht.com^
+@@||ytimg.com^
+@@||googleusercontent.com^
+@@||gstatic.com^
+@@||googleapis.com^
 
 #Generic
 @@||swisscom.com^
