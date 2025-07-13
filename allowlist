@@ -44,6 +44,8 @@
 @@||cloudfront.net^
 @@||nflxso.net^
 @@||nflxext.com^
+@@||cdn.cloudflare.net^
+@@||cdn.alloy.ch^
 
 #Generic
 @@||swisscom.com^
@@ -88,3 +90,4 @@
 @@||airbnb.com^
 @@||airbnb.ch^
 @@||twint.ch^
+@@||homegate.ch^
