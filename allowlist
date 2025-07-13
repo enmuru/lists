@@ -46,6 +46,14 @@
 @@||nflxext.com^
 @@||cdn.cloudflare.net^
 @@||cdn.alloy.ch^
+@@||cdn.cookielaw.org^
+@@||assets.adobedtm.com^
+@@||ztat.net^
+@@||akamaiedge.net^
+@@||data.adobedc.net^
+@@||assets.adobedtm.com^
+@@||cdn.jsdelivr.net^
+@@||static.licdn.com^
 
 #Generic
 @@||swisscom.com^
@@ -91,3 +99,8 @@
 @@||airbnb.ch^
 @@||twint.ch^
 @@||homegate.ch^
+@@||auth0.com^
+@@||whatsapp.net^
+@@||mozilla.org^
+@@||sctv.ch^
+@@||demdex.net^
