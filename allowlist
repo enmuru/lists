@@ -55,6 +55,8 @@
 @@||cdn.jsdelivr.net^
 @@||static.licdn.com^
 @@||mzstatic.com^
+@@||cdnjs.cloudflare.com^
+@@||fast.fonts.net^
 
 #Generic
 @@||swisscom.com^
@@ -122,3 +124,4 @@
 @@||apple.com^
 @@||jobup.ch^
 @@||sony.com^
+@@||google.ch^
